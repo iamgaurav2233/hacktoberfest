@@ -4,3 +4,4 @@ Contributors:
 
 - [soni krishna](https:github.com/Krishna1922)
 
+- [Aryan Lath](https://github.com/aryanlath)
